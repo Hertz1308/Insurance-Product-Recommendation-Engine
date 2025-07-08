@@ -1,10 +1,10 @@
-# 🛡️ Insurance Policy Recommendation Engine
+# Insurance Policy Recommendation Engine
 
 This project is a **machine learning-based policy recommender** built with Python. It analyzes user profile details like income, marital status, education, and more, and suggests the most suitable insurance policy using a ranking model.
 
----
+--- 
 
-## 📌 Features
+## Features
 
 - Uses **XGBoost ranking (pairwise ranking)** to match users with policies.
 - Categorical inputs are encoded using **Label Encoding**.
@@ -15,7 +15,7 @@ This project is a **machine learning-based policy recommender** built with Pytho
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The project uses the **[WA_Fn-UseC_-Marketing-Customer-Value-Analysis.csv](https://www.kaggle.com/code/tariqmuneer/wa-fn-usec-marketing-customer-lm/input)** dataset for customer profile training data.
 
