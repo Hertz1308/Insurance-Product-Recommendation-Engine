@@ -17,6 +17,6 @@ This project is a **machine learning-based policy recommender** built with Pytho
 
 ## 📁 Dataset
 
-The project uses the **[WA_Fn-UseC_-Marketing-Customer-Value-Analysis.csv](https://www.kaggle.com/datasets/sagnik1511/insurance-customer-value-analysis)** dataset for customer profile training data.
+The project uses the **[WA_Fn-UseC_-Marketing-Customer-Value-Analysis.csv]([https://www.kaggle.com/datasets/sagnik1511/insurance-customer-value-analysis](https://www.kaggle.com/code/tariqmuneer/wa-fn-usec-marketing-customer-lm/input))** dataset for customer profile training data.
 
 Make sure to download and place the CSV file in the same directory as the code:
